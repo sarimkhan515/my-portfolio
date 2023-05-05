@@ -24,6 +24,29 @@ body {
     height: 100%;
     width: 100%; }
 
+    .margin-top{
+      margin-top: 5rem;
+    }
+    .-margin{
+      margin-top:-40px;
+    
+    }
+    .center{
+      margin-left: 30px;
+      color: rgb(41, 41, 41);
+      font-size: 2rem;
+      font-weight: 600;
+      border:1.5px dotted #CA82F8;
+      padding: 2px 20px;
+      border-radius: 10px;
+      background: transparent;
+      transition: .4s;
+      font-family: "Playfair Display", Georgia, serif;
+
+    }
+    .center:hover{
+      background-color: #CA82F8;
+    }
 a {
   color: #CA82F8;
   -webkit-transition: 0.5s;
