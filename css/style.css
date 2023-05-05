@@ -33,20 +33,12 @@ body {
     }
     .center{
       margin-left: 30px;
-      font-size: 2rem;
-      font-weight: 600;
-      border:1.5px dotted #CA82F8;
-      padding: 2px 20px;
-      border-radius: 10px;
-      background: transparent;
-      transition: .4s;
-      font-family: "Playfair Display", Georgia, serif;
+      padding: 10px 32px;
+      font-size: 2rem!important;
+      font-weight: 500;"
 
     }
-    .center:hover{
-      background-color: #CA82F8;
-      color:white !important;
-    }
+ 
 a {
   color: #CA82F8;
   -webkit-transition: 0.5s;
