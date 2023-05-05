@@ -46,6 +46,7 @@ body {
     }
     .center:hover{
       background-color: #CA82F8;
+      color:white;
     }
 a {
   color: #CA82F8;
